@@ -2,7 +2,7 @@
 	"name": "ads-extension-mongo-migration",
 	"displayName": "Azure Cosmos DB Migration for MongoDB",
 	"aiKey": "29a207bb14f84905966a8f22524cb730-25407f35-11b6-4d4e-8114-ab9e843cb52f-7380",
-	"description": "This extension helps you migrate your MongoDB databases to Azure Cosmos DB for MongoDB.",
+	"description": "This extension helps you assess migration of your MongoDB databases to Azure Cosmos DB for MongoDB.",
 	"publisher": "Microsoft",
 	"preview": true,
 	"license": "SEE LICENSE IN license.rtf",
