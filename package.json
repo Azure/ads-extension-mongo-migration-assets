@@ -8,8 +8,8 @@
 	"icon": "images/mongoMigrationIcon128.png",
 	"version": "0.0.1",
 	"engines": {
-		"vscode": "^1.39.0",
-		"azdata": "*"
+		"vscode": "*",
+		"azdata": "^1.39.0"
 	},
 	"repository": {
 		"type": "git",
