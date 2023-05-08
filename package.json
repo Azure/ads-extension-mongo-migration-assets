@@ -7,14 +7,14 @@
 	"preview": true,
 	"license": "SEE LICENSE IN license.rtf",
 	"icon": "images/mongoMigrationIcon128.png",
-	"version": "0.0.1",
+	"version": "1.0.1",
 	"engines": {
 		"vscode": "*",
 		"azdata": "^1.39.0"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://msdata.visualstudio.com/DefaultCollection/CosmosDB/_git/ads-extension-mongo-migration"
+		"url": "https://github.com/Azure/ads-extension-mongo-migration-assets.git"
 	},
 	"categories": [
 		"Other"

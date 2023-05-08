@@ -8,3 +8,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Initial release
 - Has ability to connect to mongo servers, assess all databases and collections for migration readiness. Report is generated highlighting all actions user can take for migration readiness.
+
+## [1.0.1] 08-05-2023 - Bug fixes
+
+- Missing assessments HTML report on certain cases has been fixed.
+- Fix on number overflow in data size fields of HTML report
+- Other cosmetic fixes
