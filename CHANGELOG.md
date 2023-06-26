@@ -12,5 +12,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [1.0.1] 08-05-2023 - Bug fixes
 
 - Missing assessments HTML report on certain cases has been fixed.
-- Fix on number overflow in data size fields of HTML report
-- Other cosmetic fixes
+- Fix on number overflow in data size fields of HTML report.
+- Other cosmetic fixes.
+
+## [1.1.0] 26-06-2023 - minor updates and bug fixes
+
+- Added a new dialog for more details on errors.
+- Added telemetry to track metrics.
+- Bug fixes including few accessibility issues.
