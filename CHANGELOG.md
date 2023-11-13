@@ -20,3 +20,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Added a new dialog for more details on errors.
 - Added telemetry to track metrics.
 - Bug fixes including few accessibility issues.
+
+## [2.0.0] 10-11-2023 - support for migration
+
+- Added support to create and monitor migrations
