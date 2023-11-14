@@ -1,7 +1,14 @@
 # Introduction 
-The Azure Cosmos DB Migration for MongoDB extension helps you assess your MongoDB workload for migrating to Azure Cosmos DB. You can use this extension to run an end-to-end assessment on your workload and find out the necessary actions you may need to take to seamlessly migrate your workloads to Azure Cosmos DB. 
+The Azure Cosmos DB Migration for MongoDB extension helps you assess and migrate your MongoDB workload to Azure Cosmos DB. The end-to-end assessment helps you find out the necessary actions you may need to take to seamlessly migrate your workloads to Azure Cosmos DB.
 
-The extension generates a customized report by running checks against the MongoDB features and functionalities that are specifically being used within your workload, ensuring that you get all the relevant insights in one place. After the assessment, you can migrate your workload to Azure Cosmos DB for MongoDB with just a few clicks.
+After the assessment, you can migrate your workload to Azure Cosmos DB for MongoDB with just a few clicks:
+1. Select the source.
+1. Select the destination.
+1. Review the assessment report and decide if you are good for migrations.
+1. Migrate everything or identify the databases and collections you want to migrate.
+1. Start the migration.
+
+After capturing the migration configuration from the extension, the remaining process is executed on Azure cloud resources for a fast and efficient migration. You can monitor the progress of the migration in the extension. It is not necessary to be connected during the migration process.
 
 ## Telemetry
 
