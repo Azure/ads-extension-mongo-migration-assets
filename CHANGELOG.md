@@ -24,3 +24,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [2.0.0] 10-11-2023 - support for migration
 
 - Added support to create and monitor migrations
+
+## [2.0.2] 10-11-2023 - support for migration
+
+- Added support to delete migrations
