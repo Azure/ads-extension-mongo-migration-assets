@@ -28,3 +28,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [2.0.2] 10-11-2023 - support for migration
 
 - Added support to delete migrations
+
+## [2.0.3] 20-02-2024 - accessibility bug fixes and performance improvement
+
+- Improved execution time for assessment runs.
+- Accessibility bug fixes.
