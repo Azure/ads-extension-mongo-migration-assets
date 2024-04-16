@@ -38,3 +38,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Added data assessment feature.
 - Accessibility bug fixes.
+
+## [2.1.1] 15-04-2024 - Minor updates and bug fixes
+
+- Added confirm settings dialog.
+- Telemetry bug fixes.
