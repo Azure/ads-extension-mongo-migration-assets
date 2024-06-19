@@ -43,3 +43,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Added confirm settings dialog.
 - Telemetry bug fixes.
+
+## [2.2.0] 19-06-2024 - Data assessment telemetry, performance improvement and bug fixes
+
+- Data assessment telemetry 
+- Updated performance for schema migration
+- Bug fixes in assessment
+- XSS attack prevention in HTML report
