@@ -50,3 +50,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Updated performance for schema migration
 - Bug fixes in assessment
 - XSS attack prevention in HTML report
+
+## [3.0.0] 02-07-2024 - Online migration
+
+- Added support to create online migrations.
+- Added support to cancel migrations.
