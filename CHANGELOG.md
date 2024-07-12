@@ -55,3 +55,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Added support to create online migrations.
 - Added support to cancel migrations.
+
+## [3.1.0] 12-07-2024 - Migrate capped collections and check connectivity
+
+- Added support to migrate capped collections.
+- Added connectivity check of source and target cluster before starting migration.
