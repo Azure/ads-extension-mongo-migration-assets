@@ -60,3 +60,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Added support to migrate capped collections.
 - Added connectivity check of source and target cluster before starting migration.
+
+## [3.1.1] 31-07-2024 - Updates to vCore assessments
+
+- Updated the assessments for vCore to the latest updates from Mongo team.
