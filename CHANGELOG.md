@@ -64,3 +64,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [3.1.1] 31-07-2024 - Updates to vCore assessments
 
 - Updated the assessments for vCore to the latest updates from Mongo team.
+
+## [3.1.2] 13-08-2024 - Data migration telemetry
+
+- Telemetry updates and minor fixes.
