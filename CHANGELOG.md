@@ -68,3 +68,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [3.1.2] 13-08-2024 - Data migration telemetry
 
 - Telemetry updates and minor fixes.
+
+## [3.1.3] 30-08-2024 - Minor bug fixes
+
+- Bug fixes in telemetry and Schema Migration
