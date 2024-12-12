@@ -71,7 +71,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [3.1.3] 30-08-2024 - Minor bug fixes
 
-- Bug fixes in telemetry and Schema Migration
+- Bug fixes in telemetry, schema migration and accessibility.
 
 ## [3.1.4] 03-10-2024 - Minor exception fixes
+
 - Fixing error messages appearing when test connectivity check fails.
+
+## [3.1.5] 12-12-2024 - Minor bug fixes
+
+- Fixed minor bugs.
