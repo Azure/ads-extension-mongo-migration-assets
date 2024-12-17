@@ -80,3 +80,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [3.1.5] 12-12-2024 - Minor bug fixes
 
 - Fixed minor bugs.
+
+## [3.1.6] 17-12-2024 - Minor bug fixes
+
+- Fixed minor bugs for schema migration.
