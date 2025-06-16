@@ -3,11 +3,11 @@ author: Bharath Palaksha
 operator: Bharath Palaksha
 ---
 
-MICROSOFT SOFTWARE LICENSE TERMS
+# MICROSOFT SOFTWARE LICENSE TERMS
 
-MICROSOFT AZURE COSMOS DB MIGRATION FOR MONGODB (PREVIEW)
+# AZURE COSMOS DB FOR MONGODB MIGRATION EXTENSION
 
-# Last updated: April 10, 2023
+**Last updated: April 16, 2025**
 
 **If YOU LIVE IN (OR ARE A BUSINESS WITH A PRINCIPAL PLACE OF BUSINESS
 IN) THE UNITED STATES, PLEASE READ THE "BINDING ARBITRATION AND CLASS
@@ -24,11 +24,11 @@ BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
 
 1.  **INSTALLATION AND USE RIGHTS.**
 
-    a.  **General. **You may install and use any number of copies of the
-        software on your devices, solely to demonstrate and internally
-        evaluate it for your internal business purposes. You may not use
-        the software in a live operating environment unless Microsoft
-        permits you to do so under another agreement.
+    a.  **General.** You may install and use an unlimited number of copies 
+        of the software on your devices solely for the purpose of assessing
+        and migrating MongoDB Server workloads to Azure Cosmos DB for MongoDB.
+        Any other use of the software is prohibited unless expressly authorized 
+        by Microsoft under a separate agreement.
 
     b.  **Work or School Accounts**. You can sign into the software with
         a work or school email address. If you do, you agree that the
@@ -36,15 +36,17 @@ BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
         control and administer your account, and access and process your
         data, including the contents of your communications and files.
         You further agree that your use of the software may be subject
-        to: i) your organization's guidelines and policies regarding the
-        use of the software; and ii) the agreements Microsoft has with
+        to:
+        i) your organization's guidelines and policies regarding the
+        use of the software; and
+        ii) the agreements Microsoft has with
         you or your organization, and in such case these terms may not
         apply. If you already have a Microsoft account and you use a
         separate work or school email address to access the software,
         you may be prompted to update the email address associated with
         your Microsoft account to continue accessing the software.
 
-    c.  **Third Party Components. **The software may include third party
+    c.  **Third Party Components.** The software may include third party
         components with separate legal notices or governed by other
         agreements, as may be described in the ThirdPartyNotices file(s)
         accompanying the software.
@@ -61,27 +63,22 @@ BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
         software, you are not allowed to access or use this software,
         and will not do so.
 
-```{=html}
-<!-- -->
-```
-1.  **TIME-SENSITIVE SOFTWARE**.
 
-    a.  **Period. **This agreement is effective on your acceptance and
+2.  **TIME-SENSITIVE SOFTWARE**.
+
+    a.  **Period.** This agreement is effective on your acceptance and
         terminates on the earlier of (i) 30 days following first
         availability of a commercial release of the software or (ii)
         upon termination by Microsoft. Microsoft may extend this
         agreement in its discretion.
 
-    b.  **Notice. **You may receive periodic reminder notices of this
+    b.  **Notice.** You may receive periodic reminder notices of this
         date through the software.
 
-    c.  **Access to data. **You may not be able to access data used in
+    c.  **Access to data.** You may not be able to access data used in
         the software when it stops running.
 
-```{=html}
-<!-- -->
-```
-1.  **SCOPE OF LICENSE. **The software is licensed, not sold. Microsoft
+3.  **SCOPE OF LICENSE.** The software is licensed, not sold. Microsoft
     reserves all other rights. Unless applicable law gives you more
     rights despite this limitation, you will not (and have no right to):
 
@@ -104,14 +101,11 @@ BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
         software as a stand-alone offering for others to use, or
         transfer the software or this agreement to any third party.
 
-```{=html}
-<!-- -->
-```
-1.  **PRE-RELEASE SOFTWARE. **The software is a pre-release version. It
+4.  **PRE-RELEASE SOFTWARE.** The software is a pre-release version. It
     may not operate correctly. It may be different from the commercially
     released version.
 
-2.  **FEEDBACK. **If you give feedback about the software to Microsoft,
+5.  **FEEDBACK.** If you give feedback about the software to Microsoft,
     you give to Microsoft, without charge, the right to use, share and
     commercialize your feedback in any way and for any purpose. You will
     not give feedback that is subject to a license that requires
@@ -119,9 +113,9 @@ BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
     because Microsoft includes your feedback in them. These rights
     survive this agreement.
 
-3.  **DATA.**
+6.  **DATA.**
 
-    a.  **Data Collection. **The software may collect information about
+    a.  **Data Collection.** The software may collect information about
         you and your use of the software, and send that to Microsoft.
         Microsoft may use this information to provide services and
         improve our products and services. You may opt-out of many of
@@ -133,7 +127,7 @@ BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
         providing appropriate notices to users of your applications. You
         can learn more about data collection and use in the help
         documentation and the privacy statement at
-        [https://go.microsoft.com/fwlink/?linkid=521839]{.underline}.
+        [https://go.microsoft.com/fwlink/?linkid=521839].
         Your use of the software operates as your consent to these
         practices.
 
@@ -143,23 +137,20 @@ BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
         Union General Data Protection Regulation Terms of the Microsoft
         Products and Services Data Protection Addendum to all customers
         effective May 25, 2018, at
-        [https://go.microsoft.com/fwlink/?linkid=2135030]{.underline}.
+        [https://go.microsoft.com/fwlink/?linkid=2135030].
 
-```{=html}
-<!-- -->
-```
-1.  **EXPORT RESTRICTIONS. **You must comply with all domestic and
+7.  **EXPORT RESTRICTIONS.** You must comply with all domestic and
     international export laws and regulations that apply to the
     software, which include restrictions on destinations, end users, and
     end use. For further information on export restrictions, visit
-    [https://aka.ms/exporting]{.underline}.
+    [https://aka.ms/exporting].
 
-2.  **SUPPORT SERVICES. **Microsoft is not obligated under this
+8.  **SUPPORT SERVICES.** Microsoft is not obligated under this
     agreement to provide any support services for the software. Any
     support provided is "as is", "with all faults", and without warranty
     of any kind.
 
-3.  **UPDATES. **The software may periodically check for updates and
+9.  **UPDATES.** The software may periodically check for updates and
     download and install them for you. You may obtain updates only from
     Microsoft or authorized sources. Microsoft may need to update your
     system to provide you with updates. You agree to receive these
@@ -167,9 +158,9 @@ BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
     include or support all existing software features, services, or
     peripheral devices.
 
-4.  **BINDING ARBITRATION AND CLASS ACTION WAIVER. **This Section
+10.  **BINDING ARBITRATION AND CLASS ACTION WAIVER.** This Section
     applies if you live in (or, if a business, your principal place of
-    business is in) the United States**. **If you and Microsoft have a
+    business is in) the United States. If you and Microsoft have a
     dispute, you and Microsoft agree to try for 60 days to resolve it
     informally. If you and Microsoft can't, you and Microsoft agree to
     binding individual arbitration before the American Arbitration
@@ -180,19 +171,19 @@ BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
     proceeding where someone acts in a representative capacity are not
     allowed; nor is combining individual proceedings without the consent
     of all parties. The complete Arbitration Agreement contains more
-    terms and is at [https://aka.ms/arb-agreement-4]{.underline}. You
+    terms and is at [https://aka.ms/arb-agreement-4]. You
     and Microsoft agree to these terms.
 
-5.  **TERMINATION. **Without prejudice to any other rights, Microsoft
+11.  **TERMINATION.** Without prejudice to any other rights, Microsoft
     may terminate this agreement if you fail to comply with any of its
     terms or conditions. In such event, you must destroy all copies of
     the software and all of its component parts.
 
-6.  **ENTIRE AGREEMENT. **This agreement, and any other terms Microsoft
+12.  **ENTIRE AGREEMENT.** This agreement, and any other terms Microsoft
     may provide for supplements, updates, or third-party applications,
     is the entire agreement for the software.
 
-7.  **APPLICABLE LAW AND PLACE TO RESOLVE DISPUTES. **If you acquired
+13.  **APPLICABLE LAW AND PLACE TO RESOLVE DISPUTES.** If you acquired
     the software in the United States or Canada, the laws of the state
     or province where you live (or, if a business, where your principal
     place of business is located) govern the interpretation of this
@@ -209,7 +200,7 @@ BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
     venue in the Superior Court of King County, Washington for all
     disputes heard in court (excluding arbitration).
 
-8.  **CONSUMER RIGHTS; REGIONAL VARIATIONS. **This agreement describes
+14.  **CONSUMER RIGHTS; REGIONAL VARIATIONS.** This agreement describes
     certain legal rights. You may have other rights, including consumer
     rights, under the laws of your state, province, or country. Separate
     and apart from your relationship with Microsoft, you may also have
@@ -220,11 +211,11 @@ BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
     regions, or mandatory country law applies, then the following
     provisions apply to you:
 
-    a.  **Australia. **You have statutory guarantees under the
+    a.  **Australia.** You have statutory guarantees under the
         Australian Consumer Law and nothing in this agreement is
         intended to affect those rights.
 
-    b.  **Canada. **If you acquired this software in Canada, you may
+    b.  **Canada.** If you acquired this software in Canada, you may
         stop receiving updates by turning off the automatic update
         feature, disconnecting your device from the Internet (if and
         when you re-connect to the Internet, however, the software will
@@ -232,53 +223,52 @@ BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
         software. The product documentation, if any, may also specify
         how to turn off updates for your specific device or software.
 
-    c.  **Germany and Austria**.
-
-        i.  **Warranty**. The properly licensed software will perform
+    c.  **Germany and Austria.**
+    
+        1. **Warranty**. The properly licensed software will perform
             substantially as described in any Microsoft materials that
             accompany the software. However, Microsoft gives no
             contractual guarantee in relation to the licensed software.
 
-        ii. **Limitation of Liability. **In case of intentional conduct,
+        2. **Limitation of Liability.** In case of intentional conduct,
             gross negligence, claims based on the Product Liability Act,
             as well as, in case of death or personal or physical injury,
             Microsoft is liable according to the statutory law.
 
-Subject to the foregoing clause ii., Microsoft will only be liable for
-slight negligence if Microsoft is in breach of such material contractual
-obligations, the fulfillment of which facilitate the due performance of
-this agreement, the breach of which would endanger the purpose of this
-agreement and the compliance with which a party may constantly trust in
-(so-called \"cardinal obligations\"). In other cases of slight
-negligence, Microsoft will not be liable for slight negligence.
+        Subject to the foregoing clause ii., Microsoft will only be liable for
+        slight negligence if Microsoft is in breach of such material contractual
+        obligations, the fulfillment of which facilitate the due performance of
+        this agreement, the breach of which would endanger the purpose of this
+        agreement and the compliance with which a party may constantly trust in
+        (so-called \"cardinal obligations\"). In other cases of slight
+        negligence, Microsoft will not be liable for slight negligence.
 
-1.  **DISCLAIMER OF WARRANTY**. **THE SOFTWARE IS LICENSED "AS IS." YOU
+15. **DISCLAIMER OF WARRANTY. THE SOFTWARE IS LICENSED "AS IS." YOU
     BEAR THE RISK OF USING IT. MICROSOFT GIVES NO EXPRESS WARRANTIES,
     GUARANTEES, OR CONDITIONS. TO THE EXTENT PERMITTED UNDER APPLICABLE
     LAWS, MICROSOFT EXCLUDES ALL IMPLIED WARRANTIES, INCLUDING
     MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
     NON-INFRINGEMENT.**
 
-2.  **LIMITATION ON AND EXCLUSION OF DAMAGES**. **IF YOU HAVE ANY BASIS
+16. **LIMITATION ON AND EXCLUSION OF DAMAGES. IF YOU HAVE ANY BASIS
     FOR RECOVERING DAMAGES DESPITE THE PRECEDING DISCLAIMER OF WARRANTY,
     YOU CAN RECOVER FROM MICROSOFT AND ITS SUPPLIERS ONLY DIRECT DAMAGES
     UP TO U.S. \$5.00. YOU CANNOT**
 
-# RECOVER ANY OTHER DAMAGES, INCLUDING CONSEQUENTIAL, LOST PROFITS, SPECIAL, INDIRECT OR INCIDENTAL DAMAGES.
+    **RECOVER ANY OTHER DAMAGES, INCLUDING CONSEQUENTIAL, LOST PROFITS, SPECIAL, INDIRECT OR INCIDENTAL DAMAGES.**
+    
+    **This limitation applies to (a) anything related to the software,
+    services, content (including code) on third party Internet sites, or
+    third party applications; and (b) claims for breach of contract,
+    warranty, guarantee, or condition; strict liability, negligence, or
+    other tort; or any other claim; in each case to the extent permitted by
+    applicable law.**
 
-**This limitation applies to (a) anything related to the software,
-services, content (including code) on third party Internet sites, or
-third party applications; and (b) claims for breach of contract,
-warranty, guarantee, or condition; strict liability, negligence, or
-other tort; or any other claim; in each case to the extent permitted by
-applicable law.**
+    **It also applies even if Microsoft knew or should have known about the possibility of the damages. The above limitation or exclusion may not apply to you because your state, province, or country may not allow the exclusion or limitation of incidental, consequential, or other damages.**
+    
+**Please note: As this software is distributed in Canada, some of the clauses in this agreement are provided below in French.**
 
-# It also applies even if Microsoft knew or should have known about the possibility of the damages. The above limitation or exclusion may not apply to you because your state, province, or country may not allow the exclusion or limitation of incidental, consequential, or other damages.
-
-**Please note: As this software is distributed in Canada, some of the
-clauses in this agreement are provided below in French.**
-
-# Remarque: Ce logiciel étant distribué au Canada, certaines des clauses dans ce contrat sont fournies ci-dessous en français.
+**Remarque: Ce logiciel étant distribué au Canada, certaines des clauses dans ce contrat sont fournies ci-dessous en français.**
 
 **EXONÉRATION DE GARANTIE. Le logiciel visé par une licence est offert «
 tel quel ». Toute utilisation de ce logiciel est à votre seule risque et
@@ -289,7 +279,7 @@ elles sont permises par le droit locale, les garanties implicites de
 qualité marchande, d'adéquation à un usage particulier et d'absence de
 contrefaçon sont exclues.**
 
-# LIMITATION DES DOMMAGES-INTÉRÊTS ET EXCLUSION DE RESPONSABILITÉ POUR LES
+**LIMITATION DES DOMMAGES-INTÉRÊTS ET EXCLUSION DE RESPONSABILITÉ POUR LES**
 
 **DOMMAGES. Vous pouvez obtenir de Microsoft et de ses fournisseurs une
 indemnisation en cas de dommages directs uniquement à hauteur de 5,00 \$
@@ -297,7 +287,7 @@ US. Vous ne pouvez prétendre à aucune indemnisation pour les autres
 dommages, y compris les dommages spéciaux, indirects ou accessoires et
 pertes de bénéfices.**
 
-# Cette limitation concerne:
+**Cette limitation concerne:**
 
 -   **tout ce qui est relié au logiciel, aux services ou au contenu (y
     compris le code) figurant sur des sites Internet tiers ou dans des
@@ -314,4 +304,6 @@ indirects, accessoires ou de quelque nature que ce soit, il se peut que
 la limitation ou l'exclusion ci-dessus ne s'appliquera pas à votre
 égard.**
 
-# EFFET JURIDIQUE. Le présent contrat décrit certains droits juridiques. Vous pourrie z avoir d'autres droits prévus par les lois de votre pays. Le présent contrat ne modifie pas les droits que vous confèrent les lois de votre pays si celles-ci ne le permettent pas.
+**EFFET JURIDIQUE. Le présent contrat décrit certains droits juridiques. Vous pourrie z avoir d'autres droits prévus par les lois de votre pays. Le présent contrat ne modifie pas les droits que vous confèrent les lois de votre pays si celles-ci ne le permettent pas.**
+
+
