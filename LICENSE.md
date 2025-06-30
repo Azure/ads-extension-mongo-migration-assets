@@ -1,8 +1,3 @@
----
-author: Bharath Palaksha
-operator: Bharath Palaksha
----
-
 # MICROSOFT SOFTWARE LICENSE TERMS
 
 # AZURE COSMOS DB FOR MONGODB MIGRATION EXTENSION
@@ -24,82 +19,81 @@ BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
 
 1.  **INSTALLATION AND USE RIGHTS.**
 
-    a.  **General.** You may install and use an unlimited number of copies 
-        of the software on your devices solely for the purpose of assessing
-        and migrating MongoDB Server workloads to Azure Cosmos DB for MongoDB.
-        Any other use of the software is prohibited unless expressly authorized 
-        by Microsoft under a separate agreement.
+    a. **General.** You may install and use an unlimited number of copies
+    of the software on your devices solely for the purpose of assessing
+    and migrating MongoDB Server workloads to Azure Cosmos DB for MongoDB.
+    Any other use of the software is prohibited unless expressly authorized
+    by Microsoft under a separate agreement.
 
-    b.  **Work or School Accounts**. You can sign into the software with
-        a work or school email address. If you do, you agree that the
-        owner of the domain associated with your email address may
-        control and administer your account, and access and process your
-        data, including the contents of your communications and files.
-        You further agree that your use of the software may be subject
-        to:
-        i) your organization's guidelines and policies regarding the
-        use of the software; and
-        ii) the agreements Microsoft has with
-        you or your organization, and in such case these terms may not
-        apply. If you already have a Microsoft account and you use a
-        separate work or school email address to access the software,
-        you may be prompted to update the email address associated with
-        your Microsoft account to continue accessing the software.
+    b. **Work or School Accounts**. You can sign into the software with
+    a work or school email address. If you do, you agree that the
+    owner of the domain associated with your email address may
+    control and administer your account, and access and process your
+    data, including the contents of your communications and files.
+    You further agree that your use of the software may be subject
+    to:
+    i) your organization's guidelines and policies regarding the
+    use of the software; and
+    ii) the agreements Microsoft has with
+    you or your organization, and in such case these terms may not
+    apply. If you already have a Microsoft account and you use a
+    separate work or school email address to access the software,
+    you may be prompted to update the email address associated with
+    your Microsoft account to continue accessing the software.
 
-    c.  **Third Party Components.** The software may include third party
-        components with separate legal notices or governed by other
-        agreements, as may be described in the ThirdPartyNotices file(s)
-        accompanying the software.
+    c. **Third Party Components.** The software may include third party
+    components with separate legal notices or governed by other
+    agreements, as may be described in the ThirdPartyNotices file(s)
+    accompanying the software.
 
-    d.  **Competitive Benchmarking**. If you are a direct competitor,
-        and you access or use the software for purposes of competitive
-        benchmarking, analysis, or intelligence gathering, you waive as
-        against Microsoft, its subsidiaries, and its affiliated
-        companies (including prospectively) any competitive use, access,
-        and benchmarking test restrictions in the terms governing your
-        software to the extent your terms of use are, or purport to be,
-        more restrictive than Microsoft's terms. If you do not waive any
-        such purported restrictions in the terms governing your
-        software, you are not allowed to access or use this software,
-        and will not do so.
-
+    d. **Competitive Benchmarking**. If you are a direct competitor,
+    and you access or use the software for purposes of competitive
+    benchmarking, analysis, or intelligence gathering, you waive as
+    against Microsoft, its subsidiaries, and its affiliated
+    companies (including prospectively) any competitive use, access,
+    and benchmarking test restrictions in the terms governing your
+    software to the extent your terms of use are, or purport to be,
+    more restrictive than Microsoft's terms. If you do not waive any
+    such purported restrictions in the terms governing your
+    software, you are not allowed to access or use this software,
+    and will not do so.
 
 2.  **TIME-SENSITIVE SOFTWARE**.
 
-    a.  **Period.** This agreement is effective on your acceptance and
-        terminates on the earlier of (i) 30 days following first
-        availability of a commercial release of the software or (ii)
-        upon termination by Microsoft. Microsoft may extend this
-        agreement in its discretion.
+    a. **Period.** This agreement is effective on your acceptance and
+    terminates on the earlier of (i) 30 days following first
+    availability of a commercial release of the software or (ii)
+    upon termination by Microsoft. Microsoft may extend this
+    agreement in its discretion.
 
-    b.  **Notice.** You may receive periodic reminder notices of this
-        date through the software.
+    b. **Notice.** You may receive periodic reminder notices of this
+    date through the software.
 
-    c.  **Access to data.** You may not be able to access data used in
-        the software when it stops running.
+    c. **Access to data.** You may not be able to access data used in
+    the software when it stops running.
 
 3.  **SCOPE OF LICENSE.** The software is licensed, not sold. Microsoft
     reserves all other rights. Unless applicable law gives you more
     rights despite this limitation, you will not (and have no right to):
 
-    a.  work around any technical limitations in the software that only
-        allow you to use it in certain ways;
+    a. work around any technical limitations in the software that only
+    allow you to use it in certain ways;
 
-    b.  reverse engineer, decompile or disassemble the software, or
-        otherwise attempt to derive the source code for the software,
-        except and to the extent required by third party licensing terms
-        governing use of certain open source components that may be
-        included in the software;
+    b. reverse engineer, decompile or disassemble the software, or
+    otherwise attempt to derive the source code for the software,
+    except and to the extent required by third party licensing terms
+    governing use of certain open source components that may be
+    included in the software;
 
-    c.  remove, minimize, block, or modify any notices of Microsoft or
-        its suppliers in the software;
+    c. remove, minimize, block, or modify any notices of Microsoft or
+    its suppliers in the software;
 
-    d.  use the software in any way that is against the law or to create
-        or propagate malware; or
+    d. use the software in any way that is against the law or to create
+    or propagate malware; or
 
-    e.  share, publish, distribute, or lease the software, provide the
-        software as a stand-alone offering for others to use, or
-        transfer the software or this agreement to any third party.
+    e. share, publish, distribute, or lease the software, provide the
+    software as a stand-alone offering for others to use, or
+    transfer the software or this agreement to any third party.
 
 4.  **PRE-RELEASE SOFTWARE.** The software is a pre-release version. It
     may not operate correctly. It may be different from the commercially
@@ -115,29 +109,29 @@ BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
 
 6.  **DATA.**
 
-    a.  **Data Collection.** The software may collect information about
-        you and your use of the software, and send that to Microsoft.
-        Microsoft may use this information to provide services and
-        improve our products and services. You may opt-out of many of
-        these scenarios, but not all, as described in the product
-        documentation. There are also some features in the software that
-        may enable you to collect data from users of your applications.
-        If you use these features to enable data collection in your
-        applications, you must comply with applicable law, including
-        providing appropriate notices to users of your applications. You
-        can learn more about data collection and use in the help
-        documentation and the privacy statement at
-        [https://go.microsoft.com/fwlink/?linkid=521839].
-        Your use of the software operates as your consent to these
-        practices.
+    a. **Data Collection.** The software may collect information about
+    you and your use of the software, and send that to Microsoft.
+    Microsoft may use this information to provide services and
+    improve our products and services. You may opt-out of many of
+    these scenarios, but not all, as described in the product
+    documentation. There are also some features in the software that
+    may enable you to collect data from users of your applications.
+    If you use these features to enable data collection in your
+    applications, you must comply with applicable law, including
+    providing appropriate notices to users of your applications. You
+    can learn more about data collection and use in the help
+    documentation and the privacy statement at
+    [https://go.microsoft.com/fwlink/?linkid=521839].
+    Your use of the software operates as your consent to these
+    practices.
 
-    b.  **Processing of Personal Data**. To the extent Microsoft is a
-        processor or subprocessor of personal data in connection with
-        the software, Microsoft makes the commitments in the European
-        Union General Data Protection Regulation Terms of the Microsoft
-        Products and Services Data Protection Addendum to all customers
-        effective May 25, 2018, at
-        [https://go.microsoft.com/fwlink/?linkid=2135030].
+    b. **Processing of Personal Data**. To the extent Microsoft is a
+    processor or subprocessor of personal data in connection with
+    the software, Microsoft makes the commitments in the European
+    Union General Data Protection Regulation Terms of the Microsoft
+    Products and Services Data Protection Addendum to all customers
+    effective May 25, 2018, at
+    [https://go.microsoft.com/fwlink/?linkid=2135030].
 
 7.  **EXPORT RESTRICTIONS.** You must comply with all domestic and
     international export laws and regulations that apply to the
@@ -158,7 +152,7 @@ BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
     include or support all existing software features, services, or
     peripheral devices.
 
-10.  **BINDING ARBITRATION AND CLASS ACTION WAIVER.** This Section
+10. **BINDING ARBITRATION AND CLASS ACTION WAIVER.** This Section
     applies if you live in (or, if a business, your principal place of
     business is in) the United States. If you and Microsoft have a
     dispute, you and Microsoft agree to try for 60 days to resolve it
@@ -174,16 +168,16 @@ BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
     terms and is at [https://aka.ms/arb-agreement-4]. You
     and Microsoft agree to these terms.
 
-11.  **TERMINATION.** Without prejudice to any other rights, Microsoft
+11. **TERMINATION.** Without prejudice to any other rights, Microsoft
     may terminate this agreement if you fail to comply with any of its
     terms or conditions. In such event, you must destroy all copies of
     the software and all of its component parts.
 
-12.  **ENTIRE AGREEMENT.** This agreement, and any other terms Microsoft
+12. **ENTIRE AGREEMENT.** This agreement, and any other terms Microsoft
     may provide for supplements, updates, or third-party applications,
     is the entire agreement for the software.
 
-13.  **APPLICABLE LAW AND PLACE TO RESOLVE DISPUTES.** If you acquired
+13. **APPLICABLE LAW AND PLACE TO RESOLVE DISPUTES.** If you acquired
     the software in the United States or Canada, the laws of the state
     or province where you live (or, if a business, where your principal
     place of business is located) govern the interpretation of this
@@ -200,7 +194,7 @@ BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
     venue in the Superior Court of King County, Washington for all
     disputes heard in court (excluding arbitration).
 
-14.  **CONSUMER RIGHTS; REGIONAL VARIATIONS.** This agreement describes
+14. **CONSUMER RIGHTS; REGIONAL VARIATIONS.** This agreement describes
     certain legal rights. You may have other rights, including consumer
     rights, under the laws of your state, province, or country. Separate
     and apart from your relationship with Microsoft, you may also have
@@ -210,6 +204,7 @@ BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
     For example, if you acquired the software in one of the below
     regions, or mandatory country law applies, then the following
     provisions apply to you:
+
 
     a.  **Australia.** You have statutory guarantees under the
         Australian Consumer Law and nothing in this agreement is
@@ -224,7 +219,7 @@ BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
         how to turn off updates for your specific device or software.
 
     c.  **Germany and Austria.**
-    
+
         1. **Warranty**. The properly licensed software will perform
             substantially as described in any Microsoft materials that
             accompany the software. However, Microsoft gives no
@@ -256,7 +251,7 @@ BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
     UP TO U.S. \$5.00. YOU CANNOT**
 
     **RECOVER ANY OTHER DAMAGES, INCLUDING CONSEQUENTIAL, LOST PROFITS, SPECIAL, INDIRECT OR INCIDENTAL DAMAGES.**
-    
+
     **This limitation applies to (a) anything related to the software,
     services, content (including code) on third party Internet sites, or
     third party applications; and (b) claims for breach of contract,
@@ -265,7 +260,7 @@ BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
     applicable law.**
 
     **It also applies even if Microsoft knew or should have known about the possibility of the damages. The above limitation or exclusion may not apply to you because your state, province, or country may not allow the exclusion or limitation of incidental, consequential, or other damages.**
-    
+
 **Please note: As this software is distributed in Canada, some of the clauses in this agreement are provided below in French.**
 
 **Remarque: Ce logiciel étant distribué au Canada, certaines des clauses dans ce contrat sont fournies ci-dessous en français.**
@@ -289,13 +284,13 @@ pertes de bénéfices.**
 
 **Cette limitation concerne:**
 
--   **tout ce qui est relié au logiciel, aux services ou au contenu (y
-    compris le code) figurant sur des sites Internet tiers ou dans des
-    programmes tiers; et**
+- **tout ce qui est relié au logiciel, aux services ou au contenu (y
+  compris le code) figurant sur des sites Internet tiers ou dans des
+  programmes tiers; et**
 
--   **les réclamations au titre de violation de contrat ou de garantie,
-    ou au titre de responsabilité stricte, de négligence ou d'une autre
-    faute dans la limite autorisée par la loi en vigueur.**
+- **les réclamations au titre de violation de contrat ou de garantie,
+  ou au titre de responsabilité stricte, de négligence ou d'une autre
+  faute dans la limite autorisée par la loi en vigueur.**
 
 **Elle s'applique également, même si Microsoft connaissait ou devrait
 connaître l'éventualité d'un tel dommage. Si votre pays n'autorise pas
@@ -305,5 +300,3 @@ la limitation ou l'exclusion ci-dessus ne s'appliquera pas à votre
 égard.**
 
 **EFFET JURIDIQUE. Le présent contrat décrit certains droits juridiques. Vous pourrie z avoir d'autres droits prévus par les lois de votre pays. Le présent contrat ne modifie pas les droits que vous confèrent les lois de votre pays si celles-ci ne le permettent pas.**
-
-

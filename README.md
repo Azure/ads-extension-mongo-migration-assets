@@ -1,24 +1,26 @@
-# Introduction 
-The Azure Cosmos DB Migration for MongoDB extension helps you assess and migrate your MongoDB workload to Azure Cosmos DB. The end-to-end assessment helps you find out the necessary actions you may need to take to seamlessly migrate your workloads to Azure Cosmos DB.
+# Introduction
 
-After the assessment, you can migrate your workload to Azure Cosmos DB for MongoDB with just a few clicks:
-1. Select the source.
-1. Select the destination.
-1. Review the assessment report and decide if you are good for migrations.
-1. Migrate everything or identify the databases and collections you want to migrate.
-1. Start the migration.
+The Azure Cosmos DB for MongoDB Migration extension helps you assess your MongoDB workload to Azure Cosmos DB. The end-to-end assessment helps you find out the necessary actions you may need to take to seamlessly migrate your workloads to Azure Cosmos DB.
 
-After capturing the migration configuration from the extension, the remaining process is executed on Azure cloud resources for a fast and efficient migration. You can monitor the progress of the migration in the extension. It is not necessary to be connected during the migration process.
+The report presents findings at the account, database, and collection levels, each marked as Critical, Warning, or Informational based on severity to aid prioritization. These include
+
+- **Unsupported Features and Syntax**: It flags unsupported MongoDB features, commands, query syntax, and index types, with usage frequency to prioritize fixes.
+
+- **Resource-Specific Recommendations**: Each finding includes the affected resource name, actionable recommendations, and relevant technical details for remediation.
+
+- **Environment Overview**: Summarizes key aspects of the source MongoDB environment—such as version, license, instance type, and stats for databases and collections.
+
+- **Compatibility and Platform Constraints**: Details Cosmos DB-specific quotas, limits, and potential shard key incompatibilities for sharded workloads.
 
 ## Telemetry
 
-This extension collects telemetry data, which is used to help understand how to improve the product. For example, this usage data helps to debug issues, such as slow start-up times, and to prioritize new features. While we appreciate the insights this data provides, we also know that not everyone wants to send usage data and you can disable telemetry as described in the Azure Data Studio [disable telemetry reporting](https://github.com/Microsoft/azuredatastudio/wiki/How-to-Disable-Telemetry-Reporting#how-to-disable-telemetry-reporting) documentation.
+VS Code collects usage data and sends it to Microsoft to help improve our products and services. Read our [privacy statement](https://go.microsoft.com/fwlink/?LinkID=528096&clcid=0x409) to learn more. If you don’t wish to send usage data to Microsoft, you can set the `telemetry.enableTelemetry` setting to `false`. Learn more in our [FAQ](https://code.visualstudio.com/docs/supporting/faq#_how-to-disable-telemetry-reporting).
 
 ## Privacy Statement
 
 To learn more about our Privacy Statement visit [this link](https://go.microsoft.com/fwlink/?LinkID=824704).
 
 ## License
-Copyright (c) Microsoft Corporation. All rights reserved.
-This extension is licensed under the [EULA](https://raw.githubusercontent.com/Azure/ads-extension-mongo-migration-assets/main/license.rtf). This license file is also present offline in the installation directory. It is an RTF file so downloading and opening with a Rich Text Supporting editor would be best for viewing.
 
+Copyright (c) Microsoft Corporation. All rights reserved.
+This extension is licensed under the [EULA](https://github.com/Azure/ads-extension-mongo-migration-assets/blob/main/migrationextension_license.md).
